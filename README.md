@@ -58,7 +58,7 @@ Check SQLite Database
 * Gmail API
 * Google OAuth 2.0
 * Ollama
-* Llama 3.2 3B
+* Llama 3.2:3B
 * SQLite
 
 ## Requirements
