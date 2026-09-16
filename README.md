@@ -78,8 +78,8 @@ Before running the project, make sure the following are installed or available:
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone <https://github.com/sleeping-jazz/Gmail-AI-Draft-Assistant>
+cd <Gmail-AI-Assistant>
 ```
 
 ### 2. Create a virtual environment
